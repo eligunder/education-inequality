@@ -1,1 +1,6 @@
-# education-inequality
+# Education Inequality Project
+
+### This project is to determine if school performance is predicted by socioeconomic factors
+
+# Data
+Data for this project is taken from EdGap.org. The data includes SAT and ACT scores from 2016, and the socioeconomic factors with the respective school districts. The secondary data set includes basic information about each school and is taken from the National Center for Education Statistics. Socioeconomic data is taken from the Census Bureau's American Community survey. SAT and ACT score data is taken from public data releases, and from each state's Department of Education. 
