@@ -15,7 +15,7 @@ The secondary data set is linked here: https://drive.google.com/file/d/1HvW2w-o2
 
 To prepare the data, erroneous and missing values were imputed, and unnecessary columns were removed. The two data frames were merged into one data frame, then separated into training and test csv's. 
 
-## Data preparation file titled "educ_data_prep.csv"
+## Data preparation file titled "educ_data_prep.ipynb"
 
 ## Training Data file titled "educ_train_data.csv"
 
