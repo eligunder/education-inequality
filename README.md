@@ -41,7 +41,7 @@ To prepare the data, erroneous and missing values were imputed, and unnecessary 
 
 To Investigate the research question, standard data visualization such were used in Python to measure the relationship between different variables and average ACT. Python was also used to create linear regressions, attempting to predict average ACT scores given socioeconomic factors. 
 
-## The analysis for the primary research question can be found in the files titled 'Education_Analysis.ipynb', and for the secondary research question at 'additional_step.ipynb'. 
+## The analysis for the primary research question can be found in the file titled 'Education_Analysis.ipynb', and for the secondary research question at 'additional_step.ipynb'. 
 
 
 ## A powerpoint containing a summary of the project is located in the file titled 'Effect of Socioeconomic Factors on Academic Performance.pptx'
