@@ -32,7 +32,7 @@ To Investigate the research question, standard data visualization such were used
 
 # Data Preparation
 
-To prepare the data, erroneous and missing values were imputed, and unnecessary columns were removed. The two data frames were merged into one data frame, then separated into training and test csv's. 
+To prepare the data, erroneous and missing values were imputed, and unnecessary columns were removed. The two data frames were merged into one data frame, then separated into training and test csv's. For the secondary research question, simalar steps were taken and the two additional csv files were merged with educ_data_merged.csv. 
 
 ## Data preparation file titled "educ_data_prep.ipynb"
 
@@ -44,4 +44,14 @@ To prepare the data, erroneous and missing values were imputed, and unnecessary 
 # Conclusions
 
 School performance can be predicted by socioeconomic factors. Furthermore, there is a strong linear relationship between ACT score and socioeconomic factors. While there is some relationship between geographic location and ACT score, there are indicators that this is due to collinearity with socioeconomic factors. No linear relationship was found between geographic location and ACT score. 
+
+# Author(s)
+
+This project was created by Eli Gunderman as part of his Methodology of Data Science course. LinkedIn profile can be found here: https://www.linkedin.com/in/eli-gunderman/. The second research question was formulated and data for its investigation located with help from David Stanko. 
+
+# License
+
+No license is required to use any materials included in this project. 
+
+
 
