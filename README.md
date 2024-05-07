@@ -19,9 +19,6 @@ and here: https://www.unitedstateszipcodes.org/zip-code-database/
 
 All Data Analysis was completed using Python in Google Colab notebooks
 
-## Methods
-
-To Investigate the research question, standard data visualization such were used in Python to measure the relationship between different variables and average ACT. Python was also used to create linear regressions, attempting to predict average ACT scores given socioeconomic factors. 
 
 
 
@@ -39,6 +36,14 @@ To prepare the data, erroneous and missing values were imputed, and unnecessary 
 ## Training Data file titled "educ_train_data.csv"
 
 ## Test Data frame titled "educ_test_data.csv"
+
+# Methods
+
+To Investigate the research question, standard data visualization such were used in Python to measure the relationship between different variables and average ACT. Python was also used to create linear regressions, attempting to predict average ACT scores given socioeconomic factors. 
+
+## The analysis for the primary research question can be found in the files titled 'Education_Analysis.ipynb', and for the secondary research question at 'additional_step.ipynb'. 
+
+## A powerpoint containing a summary of the project is located in the file titled '
 
 
 # Conclusions
