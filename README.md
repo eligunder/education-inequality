@@ -43,7 +43,7 @@ To Investigate the research question, standard data visualization such were used
 
 ## The analysis for the primary research question can be found in the files titled 'Education_Analysis.ipynb', and for the secondary research question at 'additional_step.ipynb'. 
 
-## A powerpoint containing a summary of the project is located in the file titled '
+## A powerpoint containing a summary of the project is located in the file titled 'Effect of Socioeconomic Factors on Academic Performance.pptx'
 
 
 # Conclusions
